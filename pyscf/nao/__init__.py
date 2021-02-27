@@ -20,6 +20,8 @@
 Numerical Atomic Orbitals
 '''
 
+__version__ = "0.1.0"
+
 from .m_ls_part_centers import ls_part_centers
 from .m_coulomb_am import coulomb_am
 from .m_ao_matelem import ao_matelem_c
@@ -38,5 +40,3 @@ from .bse_iter import bse_iter
 from .m_polariz_inter_ave import polariz_inter_ave, polariz_nonin_ave, polariz_freq_osc_strength
 from .ndcoo import ndcoo
 from .gw_iter import gw_iter
-
-__version__ = "0.1.0"
