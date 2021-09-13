@@ -5,6 +5,12 @@ Numerical atomic orbital module for PySCF
 
 * Version 0.1
 
+Warnings
+--------
+
+PySCF NAO is no longer maintained, please use its successor [PyNAO](https://gitlab.com/mbarbry/pynao) instead.
+
+
 Install
 -------
 * Install to python site-package folder
